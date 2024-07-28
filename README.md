@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adriana</h1>
-<h3 align="center">A passionate frontend developer 💻</h3>
+<h3 align="center">A passionate Front End Developer 💻</h3>
 
 
 - 🌱 I’m currently expanding my knowledges where I showcase my projects and demonstrate my growth as a Junior Software Developer.
