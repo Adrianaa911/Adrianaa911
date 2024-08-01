@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Adriana</h1>
-<h3 align="center">A passionate Web Developer 💻</h3>
+<h3 align="center">A passionate Software Developer 💻</h3>
 
 
-- 🌱 I’m currently expanding my knowledges where I showcase my projects and demonstrate my growth as a Junior Software Developer.
+- 🌱 I’m currently expanding my knowledges where I show my projects and demonstrate my growth as a Junior Software Developer.
   
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
 
