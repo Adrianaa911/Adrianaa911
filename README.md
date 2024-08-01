@@ -1,10 +1,12 @@
 <h1 align="center">Hi there👋, I'm Adriana</h1>
-<h3 align="center">A passionate Software Developer 💻</h3>
+<h3 align="center">A passionate Web Developer 💻</h3>
 
 
 - 🌱 I’m currently expanding my knowledges where I show my projects and demonstrate my growth as a Junior Software Developer.
   
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
+
+💻 Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of successful projects.
 
 🤝 I am always eager to take on new challenges and expand my knowledge. My professional interests include exploring new technologies and continuously improving my coding skills. Seeking mentorship and guidance to accelerate my learning journey.
 
