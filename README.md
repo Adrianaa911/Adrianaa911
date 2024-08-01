@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently expanding my knowledges where I showcase my projects and demonstrate my growth as a Junior Software Developer.
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
-🤝 I’m looking for help with staying updated on the latest industry trends and best practices. Seeking mentorship and guidance to accelerate my learning journey.
+🤝 I am always eager to take on new challenges and expand my knowledge. My professional interests include exploring new technologies and continuously improving my coding skills. Seeking mentorship and guidance to accelerate my learning journey.
 💬 Feel free to discuss any programming-related topics. I'm always up for a good tech conversation!
 
 
