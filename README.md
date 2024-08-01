@@ -6,7 +6,7 @@
   
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
 
-💻 Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of successful projects.
+💻 Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
 
 🤝 I am always eager to take on new challenges and expand my knowledge. My professional interests include exploring new technologies and continuously improving my coding skills. Seeking mentorship and guidance to accelerate my learning journey.
 
