@@ -1,14 +1,16 @@
 <h1 align="center">Hi there👋, I'm Adriana</h1>
-<h3 align="center">A passionate Junior Web Developer 💻</h3>
+<h3 align="center">A passionate Web Developer 💻</h3>
 
 
-- 🌱 I’m currently expanding my knowledges where I show my projects and demonstrate my growth as a Full Stack Developer.
-  
-👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
+💼 I'm a dedicated and enthusiastic full-stack developer with a passion for creating captivating web experiences
+
+🌱 Currently expanding my knowledges where I show my projects and demonstrate my growth as a Full Stack Developer.
 
 💻 Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
 
-🤝 I am always eager to take on new challenges and expand my knowledge. My professional interests include exploring new technologies and continuously improving my coding skills. Seeking mentorship and guidance to accelerate my learning journey.
+🤝 I am always eager to take on new challenges and expand my knowledge. My professional interests include exploring new technologies and continuously improving my coding skills.
+
+👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
 
 💬 Feel free to discuss any programming-related topics. I'm always up for a good tech conversation!
 
