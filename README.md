@@ -3,7 +3,7 @@
 
 
 
-💼 I'm a dedicated and enthusiastic full-stack developer with a passion for creating captivating web experiences
+💼 I'm a dedicated and enthusiastic full-stack developer with a passion for creating captivating web applications.
 
 🌱 Currently expanding my knowledges where I show my projects and demonstrate my growth as a Full Stack Developer.
 
