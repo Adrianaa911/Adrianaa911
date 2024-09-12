@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Junior Web Developer 💻</h3>
 
 
-- 🌱 I’m currently expanding my knowledges where I show my projects and demonstrate my growth as a Junior Software Developer.
+- 🌱 I’m currently expanding my knowledges where I show my projects and demonstrate my growth as a Full Stack Developer.
   
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
 
