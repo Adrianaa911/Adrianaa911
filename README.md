@@ -5,9 +5,11 @@
 
 💼 I'm a dedicated and enthusiastic full-stack developer with a passion for creating captivating web applications.
 
-🌱 Currently expanding my knowledges where I show my projects and demonstrate my growth as a Full Stack Developer.
+🌱 I am currently working as a Web Developer Intern at 2Toucans. Digital agency in London specializing in web development, digital marketing & training. 
 
-💻 Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
+🖥️ I am also practising my skills on Codecademy, an American online interactive platform that offers coding classes in 12 different programming languages. 
+
+⚖️ Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
 
 🤝 I am always eager to take on new challenges and expand my knowledge. My professional interests include exploring new technologies and continuously improving my coding skills.
 
