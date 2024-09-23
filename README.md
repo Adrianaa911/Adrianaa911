@@ -11,7 +11,9 @@
 
 ⚖️ Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
 
-🤝 I am always eager to take on new challenges and expand my knowledge. My professional interests include exploring new technologies and continuously improving my coding skills.
+🤝 I am always eager to take on new challenges and expand my knowledge.
+
+🧭 My professional interests include exploring new technologies and continuously improving my coding skills.
 
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
 
