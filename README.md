@@ -3,7 +3,7 @@
 
 
 
-💼 I'm a dedicated and enthusiastic full-stack developer with a passion for creating captivating web applications.
+💼 I'm a dedicated and enthusiastic Web Developer with a passion for creating captivating Web applications.
 
 🖥️ I am also practising my skills on Codecademy, an American online interactive platform that offers coding classes in 12 different programming languages. 
 
