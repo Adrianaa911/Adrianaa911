@@ -1,9 +1,9 @@
 <h1 align="center">Hello👋🌍, I'm Adriana</h1>
 <h3 align="center"> ✨A passionate Web Developer 💻</h3>
 
+ 
 
-
-💼 I'm a dedicated and enthusiastic Web Developer with a passion for creating captivating Web applications.
+💼 I’m a passionate Junior Software Developer with a eager to showcase my skills, projects, and growth in the world of software development.
 
 ⚖️ Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
 
