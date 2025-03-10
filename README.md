@@ -3,7 +3,7 @@
 
  
 
-💼 I’m a passionate Junior Software Developer with a eager to showcase my skills, projects, and growth in the world of software development.
+💼 I’m a passionate Web Developer with a eager to showcase my skills, projects, and growth in the world of software development.
 
 ⚖️ Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
 
