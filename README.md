@@ -1,7 +1,6 @@
 <h1 align="center">Hello👋🌍, I'm Adriana</h1>
 <h3 align="center"> ✨A passionate Web Developer 💻</h3>
 
- 
 
 💼 I’m a passionate Web Developer with a eager to showcase my skills, projects, and growth in the world of software development.
 
