@@ -18,7 +18,6 @@
 
 💬 Feel free to discuss any programming-related topics. I'm always up for a good tech conversation!
 
-
 - 👨‍💻 All of my projects are available at here :) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
