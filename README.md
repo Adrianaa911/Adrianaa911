@@ -14,7 +14,7 @@
 
 🌱 Currently, I’ve had the opportunity to contribute as a Web Developer Intern at 2Toucans, a digital agency in London, where I’ve gained valuable experience in web development, digital marketing, and training. 
 
-🖥️ I am also practising my skills on Codecademy, an American online interactive platform that offers coding classes in 12 different programming languages. 
+🖥️ Additionally, I actively practice my skills on Codecademy, where I engage with a range of programming languages.
 
 💬 Feel free to discuss any programming-related topics. I'm always up for a good tech conversation!
 
