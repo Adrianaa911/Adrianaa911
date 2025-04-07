@@ -6,7 +6,7 @@
 
 ⚖️With expertise in JavaScript and Python, I specialize in creating seamless, user-friendly designs and have contributed to a variety of projects
 
-🤝 I am always eager to take on new challenges and expand my knowledge.
+🤝Always excited to take on new challenges, I am focused on expanding my knowledge and continuously improving my coding skills
 
 🧭 My professional interests include exploring new technologies and continuously improving my coding skills.
 
