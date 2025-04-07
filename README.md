@@ -4,7 +4,7 @@
 
 💼 I’m a passionate Web Developer eager to showcase my skills, projects, and growth in the software development world
 
-⚖️ Skilled in creating seamless, user-friendly designs, my expertise in JavaScript and Python has enabled me to contribute to a variety of projects.
+⚖️With expertise in JavaScript and Python, I specialize in creating seamless, user-friendly designs and have contributed to a variety of projects
 
 🤝 I am always eager to take on new challenges and expand my knowledge.
 
