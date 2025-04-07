@@ -12,7 +12,7 @@
 
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
 
-🌱 Took part of the team as a Web Developer Intern at 2Toucans. Digital agency in London specializing in web development, digital marketing & training. 
+🌱 Currently, I’ve had the opportunity to contribute as a Web Developer Intern at 2Toucans, a digital agency in London, where I’ve gained valuable experience in web development, digital marketing, and training. 
 
 🖥️ I am also practising my skills on Codecademy, an American online interactive platform that offers coding classes in 12 different programming languages. 
 
