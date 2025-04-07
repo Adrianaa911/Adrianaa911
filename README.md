@@ -16,7 +16,7 @@
 
 🖥️ Additionally, I actively practice my skills on Codecademy, where I engage with a range of programming languages.
 
-💬 Feel free to discuss any programming-related topics. I'm always up for a good tech conversation!
+💬 I am open to collaborating on innovative projects that challenge my abilities and enhance my programming knowledge. Feel free to reach out for any programming-related discussions—I'm always excited to talk tech!
 
 - 👨‍💻 All of my projects are available here :) 
 <h3 align="left">Connect with me:</h3>
