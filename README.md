@@ -12,7 +12,7 @@
 
 🌐 My professional interests lie in exploring emerging technologies, refining my development techniques, and staying up-to-date with the ever-evolving tech landscape.
 
-👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
+🤝 I’m actively seeking opportunities to collaborate on innovative projects that both challenge me and contribute to meaningful outcomes.
 
 🌱 Currently, I’ve had the opportunity to contribute as a Web Developer Intern at 2Toucans, a digital agency in London, where I’ve gained valuable experience in web development, digital marketing, and training. 
 
