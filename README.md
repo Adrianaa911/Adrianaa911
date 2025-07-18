@@ -18,7 +18,8 @@
 
 📚 Outside of work, I sharpen my skills through Codecademy, diving into various programming languages and real-world coding exercises.
 
-💬 I am open to collaborating on innovative projects that challenge my abilities and enhance my programming knowledge. Feel free to reach out for any programming-related discussions—I'm always excited to talk tech!
+💬 I’m always open to tech conversations, collaborations, or project ideas—feel free to connect if you're working on something exciting or just want to talk code!
+
 
 - 👨‍💻 All of my projects are available here :) 
 <h3 align="left">Connect with me:</h3>
