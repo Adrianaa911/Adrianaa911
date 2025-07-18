@@ -16,7 +16,7 @@
 
 🌱 I've gained hands-on experience as a Web Developer Intern at 2Toucans, a digital agency in London, where I’ve been involved in web development, digital marketing, and training initiatives.
 
-🖥️ Additionally, I actively practice my skills on Codecademy, where I engage with a range of programming languages.
+📚 Outside of work, I sharpen my skills through Codecademy, diving into various programming languages and real-world coding exercises.
 
 💬 I am open to collaborating on innovative projects that challenge my abilities and enhance my programming knowledge. Feel free to reach out for any programming-related discussions—I'm always excited to talk tech!
 
