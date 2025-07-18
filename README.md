@@ -10,7 +10,7 @@
 
 🚀 I thrive on tackling new challenges, always eager to learn, grow, and push my coding skills to the next level.
 
-🧭 My professional interests include exploring new technologies and continuously improving my coding skills.
+🌐 My professional interests lie in exploring emerging technologies, refining my development techniques, and staying up-to-date with the ever-evolving tech landscape.
 
 👯 I’m looking to collaborate on innovative projects that challenge and enhance my programming skills.
 
