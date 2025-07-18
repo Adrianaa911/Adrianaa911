@@ -8,7 +8,7 @@
 
 ⚙️ With a strong foundation in JavaScript and Python, I specialize in building intuitive, user-friendly interfaces and have contributed to diverse web development projects.
 
-🤝Always excited to take on new challenges, I am focused on expanding my knowledge and continuously improving my coding skills
+🚀 I thrive on tackling new challenges, always eager to learn, grow, and push my coding skills to the next level.
 
 🧭 My professional interests include exploring new technologies and continuously improving my coding skills.
 
