@@ -14,7 +14,7 @@
 
 🤝 I’m actively seeking opportunities to collaborate on innovative projects that both challenge me and contribute to meaningful outcomes.
 
-🌱 Currently, I’ve had the opportunity to contribute as a Web Developer Intern at 2Toucans, a digital agency in London, where I’ve gained valuable experience in web development, digital marketing, and training. 
+🌱 I've gained hands-on experience as a Web Developer Intern at 2Toucans, a digital agency in London, where I’ve been involved in web development, digital marketing, and training initiatives.
 
 🖥️ Additionally, I actively practice my skills on Codecademy, where I engage with a range of programming languages.
 
