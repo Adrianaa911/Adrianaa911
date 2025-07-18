@@ -3,7 +3,10 @@
 
 
 
-💼 I’m a passionate Web Developer eager to showcase my skills, projects, and growth in the software development world
+
+💼 I’m a dedicated Web Developer passionate about creating impactful digital experiences and continuously growing within the world of software development.
+
+
 
 ⚖️With expertise in JavaScript and Python, I specialize in creating seamless, user-friendly designs and have contributed to a variety of projects
 
