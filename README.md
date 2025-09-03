@@ -4,7 +4,7 @@
 
 
 
-💼 I’m a dedicated Web Developer passionate about creating impactful digital experiences and continuously growing within the world of software development.
+💼 A dedicated Web Developer passionate about creating impactful digital experiences and continuously growing within the world of software development.
 
 ⚙️ With a strong foundation in JavaScript and Python, I specialize in building intuitive, user-friendly interfaces and have contributed to diverse web development projects.
 
