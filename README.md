@@ -4,9 +4,11 @@
 
 
 
-💼 Web Developer passionate about creating impactful digital experiences and continuously growing within the world of software development.
+💼 I’m a Front-End Developer passionate about creating clean, responsive, and visually engaging websites. 
 
-⚙️ With a strong foundation in JavaScript and Python, I specialize in building intuitive, user-friendly interfaces and have contributed to diverse web development projects.
+🌱 I enjoy blending design and code to build intuitive, user-friendly interfaces using React, TypeScript, and Tailwind CSS. 
+
+Always learning and exploring new tools, I aim to craft digital experiences that look great and feel effortless.
 
 🚀 I thrive on tackling new challenges, always eager to learn, grow, and push my coding skills to the next level.
 
