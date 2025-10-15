@@ -8,7 +8,7 @@
 
 🌱 I enjoy blending design and code to build intuitive, user-friendly interfaces using React, TypeScript, and Tailwind CSS. 
 
-Always learning and exploring new tools, I aim to craft digital experiences that look great and feel effortless.
+💬 Always learning and exploring new tools, I aim to craft digital experiences that look great and feel effortless.
 
 🚀 I thrive on tackling new challenges, always eager to learn, grow, and push my coding skills to the next level.
 
