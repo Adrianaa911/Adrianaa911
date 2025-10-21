@@ -4,9 +4,9 @@
 
 
 
-💼 I’m a Front-End Developer passionate about creating clean, responsive, and visually engaging websites. 
+💼 I’m a Software Developer passionate about creating clean, responsive, and visually engaging websites. 
 
-🌱 I enjoy blending design and code to build intuitive, user-friendly interfaces using React, TypeScript, and Tailwind CSS. 
+🌱 I enjoy blending design and code to build intuitive, user-friendly interfaces. 
 
 💬 Always learning and exploring new tools, I aim to craft digital experiences that look great and feel effortless.
 
