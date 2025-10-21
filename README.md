@@ -12,16 +12,13 @@
 
 🚀 I thrive on tackling new challenges, always eager to learn, grow, and push my coding skills to the next level.
 
-🌐 My professional interests lie in exploring emerging technologies, refining my development techniques, and staying up-to-date with the ever-evolving tech landscape.
-
-🤝 I’m actively seeking opportunities to collaborate on innovative projects that both challenge me and contribute to meaningful outcomes.
+🌐 My professional interests lie in exploring technologies, refining my development techniques, and staying up-to-date with the ever-evolving tech landscape.
 
 🌱 I've gained hands-on experience as a Web Developer Intern at 2Toucans, a digital agency in London, where I’ve been involved in web development, digital marketing, and training initiatives.
 
 📚 Outside of work, I sharpen my skills through Codecademy, diving into various programming languages and real-world coding exercises.
 
-💬 I’m always open to tech conversations, collaborations, or project ideas—feel free to connect if you're working on something exciting or just want to talk code!
-
+💬 I’m always open to tech conversations, collaborations, or project ideas.
 
 - 👨‍💻 All of my projects are available here :) 
 <h3 align="left">Connect with me:</h3>
