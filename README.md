@@ -18,7 +18,6 @@
 
 📚 Outside of work, I sharpen my skills through Codecademy, diving into various programming languages and real-world coding exercises.
 
-💬 I’m always open to tech conversations, collaborations, or project ideas.
 
 - 👨‍💻 All of my projects are available here :)
   
