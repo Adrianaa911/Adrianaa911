@@ -20,7 +20,7 @@
 
 💬 I’m always open to tech conversations, collaborations, or project ideas.
 
-- 👨‍💻  All of my projects are available here :)
+- 👨‍💻 All of my projects are available here :)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
