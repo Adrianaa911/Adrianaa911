@@ -4,7 +4,7 @@
 
 
 
-💼 I’m a Software Developer passionate about creating clean, responsive, and visually engaging websites. 
+💼 I’m a Junior Developer passionate about creating clean, responsive, and visually engaging websites. 
 
 🌱 I enjoy blending design and code to build intuitive, user-friendly interfaces. 
 
